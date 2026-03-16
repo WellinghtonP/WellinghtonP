@@ -54,22 +54,6 @@ Experiência com:
 
 ---
 
-# 📚 Projetos em Destaque
-
-🔹 **Servidor Backend em Go**  
-Desenvolvimento de APIs seguras com autenticação JWT e comunicação criptografada.
-
-🔹 **Servidor de Gerenciamento Remoto**  
-Sistema capaz de gerenciar múltiplas conexões concorrentes com comunicação segura.
-
-🔹 **Ferramentas de Automação Linux**  
-Scripts e aplicações para automação de tarefas, gerenciamento de processos e infraestrutura.
-
-🔹 **Pesquisa em Segurança SSH (TCC)**  
-Estudo experimental sobre mitigação de ataques de força bruta em servidores SSH.
-
----
-
 # 📊 Estatísticas do GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
